@@ -1,0 +1,19 @@
+:root {
+  --bg-main: #f5f5f5;
+  --bg-form: #ffffff;
+  --alpha-blue-15: #7a97ff26;
+  --grayscale-300: #e6e6eb;
+  --grayscale-400: #cdced8;
+  --grayscale-50: #fdfdfd;
+  --grayscale-500: #a7a7b6;
+  --grayscale-600: #9292a0;
+  --grayscale-700: #696977;
+  --grayscale-900: #000000;
+  --blue-1: #3586ff;
+  --blue-2: #497ada;
+  --blue-3: rgba(73, 122, 218, 0.2);
+  --gray-1: #a4a4a6;
+  --gray-2: #d9d9d9;
+  --valid-field: #2a8f55;
+  --invalid-field: #df4c25;
+}
