@@ -9,9 +9,3 @@ build:
 
 start-build:
 	npm run preview
-
-prettier:
-	npx prettier . --write
-
-prettier-check:
-	npx prettier . --check
